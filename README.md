@@ -10,3 +10,5 @@ You can type something on the client side and the server will receive it.
 - Type something and then you should see that in the server as well as the bytes received.
 - For example if you typed "hello", you should see in the server side "hello" in bytes too. For longer messages, it will cut them off at 32 bytes.
 - If you type `:quit` then the program will quit on the client and the server will say closing connection and the client name.
+
+**Tutorial** [here](https://eleftheriabatsou.hashnode.dev/tutorial-chat-application-client-server-in-rust).
